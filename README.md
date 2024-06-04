@@ -9,7 +9,7 @@ Git Branching and Pull Requests
 - Pancakes
 - Udon Noodles
 - Steak
-- Soft boiled eggs on soda bread.
+- Soft boiled eggs on soda bread
 
 ## Richard
 
@@ -19,5 +19,9 @@ Git Branching and Pull Requests
 
 - Pizza
 - Curry
-- I hate mushrooms (unless they're raw).
-- Scrambled with a bit of pepper.
+- I hate mushrooms (unless theyre raw)
+- Scrambled with a bit of pepper
+
+## Sources
+
+- Main egg Photo by <a href="https://unsplash.com/@vitya_photography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jasmin Egger</a> on <a href="https://unsplash.com/photos/2-white-eggs-on-white-surface-PcGNb3QJjXI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
