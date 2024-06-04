@@ -13,6 +13,8 @@ Git Branching and Pull Requests
 
 ## Richard
 
+- EGGS!
+
 ## Theo
 
 - Pizza
