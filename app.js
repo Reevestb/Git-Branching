@@ -1,14 +1,16 @@
 let likeEggs = window.prompt("You better like eggs bro.");
 const mainTitle = document.querySelector("h1");
-const mainBody = document.querySelector("body");
-const subTitle = document.querySelector("h3");
-if (likeEggs !== "yes") {
-  mainTitle.style.color = "Red";
-  subTitle.textContent = `${subTitle.textContent}, not that you'll care`;
 
-  // mainBody.style.backgroundImage.url =
-  // "https://i.etsystatic.com/18669471/r/il/07eba2/3110165164/il_1140xN.3110165164_bsab.jpg";
+let subTitle = document.querySelector("h3");
+let lowerImage = document.querySelector("img");
+if (likeEggs !== "yes") {
+  mainTitle.style.color = "red";
+  subTitle.textContent = `${subTitle.textContent}, not that you care`;
+  lowerImage.src =
+    "https://cdn.pixabay.com/photo/2015/02/18/05/32/angry-640314_1280.jpg";
+  lowerImage.width = "80vw";
 } else {
-  mainTitle.style.color = "Yellow";
-  mainTitle.textContent = "Best Egg Page";
+  mainTitle.style.color = "yellow";
+  mainTitle.textContent = "Norwich's Best Page";
+
 }
