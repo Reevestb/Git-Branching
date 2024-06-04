@@ -1,5 +1,6 @@
 let likeEggs = window.prompt("You better like eggs bro.");
 const mainTitle = document.querySelector("h1");
+
 let subTitle = document.querySelector("h3");
 let lowerImage = document.querySelector("img");
 if (likeEggs !== "yes") {
@@ -11,4 +12,5 @@ if (likeEggs !== "yes") {
 } else {
   mainTitle.style.color = "yellow";
   mainTitle.textContent = "Norwich's Best Page";
+
 }
