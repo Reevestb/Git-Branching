@@ -8,5 +8,6 @@ if (likeEggs !== "yes") {
   lowerImage.src =
     "https://cdn.pixabay.com/photo/2015/02/18/05/32/angry-640314_1280.jpg";
 } else {
-  mainTitle.style.color = "red";
+  mainTitle.style.color = "yellow";
+  mainTitle.textContent = "Norwich's Best Page";
 }
