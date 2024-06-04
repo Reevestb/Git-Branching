@@ -14,3 +14,8 @@ Git Branching and Pull Requests
 ## Richard
 
 ## Theo
+
+- Pizza
+- Curry
+- I hate mushrooms (unless theyre raw)
+- Scrambled with a bit of pepper
