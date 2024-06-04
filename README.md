@@ -9,7 +9,7 @@ Git Branching and Pull Requests
 - Pancakes
 - Udon Noodles
 - Steak
-- Soft boiled eggs on soda bread
+- Soft boiled eggs on soda bread.
 
 ## Richard
 
@@ -19,5 +19,5 @@ Git Branching and Pull Requests
 
 - Pizza
 - Curry
-- I hate mushrooms (unless theyre raw)
-- Scrambled with a bit of pepper
+- I hate mushrooms (unless they're raw).
+- Scrambled with a bit of pepper.
