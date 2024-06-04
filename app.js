@@ -7,6 +7,7 @@ if (likeEggs !== "yes") {
   subTitle.textContent = `${subTitle.textContent}, not that you care`;
   lowerImage.src =
     "https://cdn.pixabay.com/photo/2015/02/18/05/32/angry-640314_1280.jpg";
+  lowerImage.width = "80vw";
 } else {
   mainTitle.style.color = "yellow";
   mainTitle.textContent = "Norwich's Best Page";
